@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+:root {
+    --dark-color: #19283f;
+    --red-color: #ff3150;
+    --yellow-color: #ffc400;
+}
+
+.main-btn {
+    background-color: var(--red-color);
+    color: var(--yellow-color);
+    padding: 0.5rem 1rem;
+}
+
+
+.navbar {
+    background-color: var(--dark-color);
+}
